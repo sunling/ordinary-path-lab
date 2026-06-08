@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ordinary Path Article"
+  short_description: "把真实问题写成不说教的系列文章"
+  default_prompt: "Use $ordinary-path-article to draft an Ordinary Path Lab article from the relevant issue units and normalized consultation records."
+
+policy:
+  allow_implicit_invocation: true

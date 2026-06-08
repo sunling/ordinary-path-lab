@@ -76,6 +76,7 @@ ordinary-path-lab/
   05-outputs/         # 内容选题、服务雏形、连接池候选
   06-article-drafts/  # 从 issue/topic 发展出的文章草稿
   07-people/          # 咨询对象、联系方式和连接意愿管理
+  SOUL.md             # 孙玲视角、写作口吻和判断底色
   templates/          # 模板
   scripts/            # 本地脚本
   taxonomy.md         # 分类字段、主题、标签和隐私规则
@@ -186,6 +187,7 @@ templates/topic-cluster.md
 - `content-backlog.md`：内容选题清单，按优先级整理 FAQ、文章、案例。
 - `service-offers.md`：服务产品雏形，包括一对一、小圆桌、路径诊断。
 - `connection-pool.md`：连接池候选分组，只记录相似处境和连接原则，不公开个人隐私。
+- `visual-system.md`：系列文章封面图、插图和视觉 prompt 规范。
 
 这一层不是原始事实层，而是复用层。写公开内容、设计服务或做连接前，都要回到 `02-normalized` 和 `03-issue-units` 检查原始语境。
 
@@ -215,6 +217,18 @@ templates/topic-cluster.md
 联系方式不要写进文章草稿、问题单元或主题聚合里。
 
 ## 推荐工作流
+
+### 写作 Skill
+
+整理文章时可以使用项目专属 skill：
+
+```text
+.agents/skills/ordinary-path-article/SKILL.md
+```
+
+它用于把 `02-normalized`、`03-issue-units` 和 `04-topic-clusters` 里的真实问题，整理成更有个人声音、同时保留隐私边界的文章。
+
+写作前先读 `SOUL.md`，用它确认孙玲视角、非说教口吻和判断底色。
 
 ### 新增一份咨询材料
 
