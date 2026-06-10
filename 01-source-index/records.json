@@ -588,6 +588,20 @@
     "record_path": "02-normalized/consult-20260308-kerwin-us-master-cloud-computing.md"
   },
   {
+    "id": "consult-20260610-tonylu-civil-eng-us-cs-transition",
+    "kind": "02-normalized",
+    "record_type": "qa_thread",
+    "title": "UCL土木硕士咨询美国转码与在线硕士路径",
+    "primary_theme": "出国读书和海外求职",
+    "tags": "[\"转码\", \"在线硕士\", \"美国硕士\", \"英国硕士\", \"土木\", \"职业转型\"]",
+    "layers": "content, service",
+    "status": "normalized",
+    "privacy_level": "private",
+    "source_path": "一对一咨询/20260610-gmail-tonylu-transition-inquiry.md",
+    "source_consult_id": "",
+    "record_path": "02-normalized/consult-20260610-tonylu-civil-eng-us-cs-transition.md"
+  },
+  {
     "id": "issue-20260606-age-anxiety-overseas-study",
     "kind": "03-issue-units",
     "record_type": "",
@@ -1106,6 +1120,20 @@
     "record_path": "03-issue-units/issue-20260606-young-woman-leave-family-environment.md"
   },
   {
+    "id": "issue-20260610-online-cs-to-offline-opt-feasibility",
+    "kind": "03-issue-units",
+    "record_type": "",
+    "title": "在线硕士（Online Master）转线下（On-campus）的可行性与 OPT/签证规划",
+    "primary_theme": "出国读书和海外求职",
+    "tags": "[\"在线硕士\", \"美国硕士\", \"转码\", \"签证\", \"OPT\"]",
+    "layers": "content, service",
+    "status": "split",
+    "privacy_level": "anonymized",
+    "source_path": "02-normalized/consult-20260610-tonylu-civil-eng-us-cs-transition.md",
+    "source_consult_id": "consult-20260610-tonylu-civil-eng-us-cs-transition",
+    "record_path": "03-issue-units/issue-20260610-online-cs-to-offline-opt-feasibility.md"
+  },
+  {
     "id": "topic-career-start-rebuild",
     "kind": "04-topic-clusters",
     "record_type": "",
@@ -1244,6 +1272,20 @@
     "source_path": "",
     "source_consult_id": "",
     "record_path": "05-outputs/service-offers.md"
+  },
+  {
+    "id": "visual-system",
+    "kind": "05-outputs",
+    "record_type": "output",
+    "title": "视觉系统：我常被问到的 100 个问题",
+    "primary_theme": "",
+    "tags": "",
+    "layers": "",
+    "status": "reusable",
+    "privacy_level": "",
+    "source_path": "",
+    "source_consult_id": "",
+    "record_path": "05-outputs/visual-system.md"
   },
   {
     "id": "article-20260606-liberal-arts-cs-fit",

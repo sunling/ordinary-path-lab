@@ -1,13 +1,13 @@
 # 咨询原始材料清单
 
-Generated: 2026-06-07 10:20
+Generated: 2026-06-10 15:26
 
 ## 统计
 
 - life_coaching: 9
-- one_on_one: 27
+- one_on_one: 28
 - qa: 10
-- total: 46
+- total: 47
 
 ## 文件
 
@@ -50,6 +50,7 @@ Generated: 2026-06-07 10:20
 | 一对一咨询/20250925120015-转写_龚保鸡丁.txt | one_on_one | .txt | 42.5 |
 | 一对一咨询/20260208130029-转写_黄泽明.txt | one_on_one | .txt | 77.8 |
 | 一对一咨询/20260308125902-转写_Kerwin-转写智能优化版-1.txt | one_on_one | .txt | 58.5 |
+| 一对一咨询/20260610-gmail-tonylu-transition-inquiry.md | one_on_one | .md | 2.1 |
 | 人生教练/Marjorie/20260122090019-转写.txt | life_coaching | .txt | 42.4 |
 | 人生教练/Marjorie/20260130090000-转写.txt | life_coaching | .txt | 52.7 |
 | 人生教练/Marjorie/20260207020448-转写.txt | life_coaching | .txt | 49.7 |

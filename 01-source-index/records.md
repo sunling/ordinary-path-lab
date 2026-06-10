@@ -1,6 +1,6 @@
 # 咨询整理记录索引
 
-Generated: 2026-06-07 10:20
+Generated: 2026-06-10 15:26
 
 | id | kind | title | primary_theme | layers | status | record_path |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@ Generated: 2026-06-07 10:20
 | consult-20250925-gongbaojiding-english-followup | 02-normalized | 入职英文环境一个月后，如何提升英语和从QA走向更大可能 | 早期职业迷茫 | content, service, connection | normalized | 02-normalized/consult-20250925-gongbaojiding-english-followup.md |
 | consult-20260208-huangzeming-self-study-degree-planning | 02-normalized | 自考大专剩两科，想拆小目标完成学历并规划出国/艺术学校 | 学历提升和考研 | content, service | normalized | 02-normalized/consult-20260208-huangzeming-self-study-degree-planning.md |
 | consult-20260308-kerwin-us-master-cloud-computing | 02-normalized | 云计算从业者想申请美国硕士，突破非全日制学历和年龄焦虑 | 出国读书和海外求职 | content, service, connection | normalized | 02-normalized/consult-20260308-kerwin-us-master-cloud-computing.md |
+| consult-20260610-tonylu-civil-eng-us-cs-transition | 02-normalized | UCL土木硕士咨询美国转码与在线硕士路径 | 出国读书和海外求职 | content, service | normalized | 02-normalized/consult-20260610-tonylu-civil-eng-us-cs-transition.md |
 | issue-20260606-age-anxiety-overseas-study | 03-issue-units | 年龄焦虑和35岁风险下，要不要用海外读书换一条路 | 出国读书和海外求职 | content, service | split | 03-issue-units/issue-20260606-age-anxiety-overseas-study.md |
 | issue-20260606-age35-remote-side-income | 03-issue-units | 如何把35岁焦虑变成远程工作和副业假设验证 | 早期职业迷茫 | content, service, connection | split | 03-issue-units/issue-20260606-age35-remote-side-income.md |
 | issue-20260606-artist-learn-python-for-creative-work | 03-issue-units | 艺术科技创作者从零学编程，是否可以从 Python 开始 | AI学习和AI教育 | content | split | 03-issue-units/issue-20260606-artist-learn-python-for-creative-work.md |
@@ -83,6 +84,7 @@ Generated: 2026-06-07 10:20
 | issue-20260606-stable-skill-next-stage | 03-issue-units | 有稳定技能后，下一阶段如何打开市场和人脉 | 早期职业迷茫 | content, service, connection | split | 03-issue-units/issue-20260606-stable-skill-next-stage.md |
 | issue-20260606-technical-student-job-definition | 03-issue-units | 技术背景不弱但担心找不到好工作，怎么定义好工作 | 早期职业迷茫 | content, service | split | 03-issue-units/issue-20260606-technical-student-job-definition.md |
 | issue-20260606-young-woman-leave-family-environment | 03-issue-units | 年轻女生想学英语和计算机，背后可能是想离开原生环境 | 家庭影响和自我边界 | content, service, connection | split | 03-issue-units/issue-20260606-young-woman-leave-family-environment.md |
+| issue-20260610-online-cs-to-offline-opt-feasibility | 03-issue-units | 在线硕士（Online Master）转线下（On-campus）的可行性与 OPT/签证规划 | 出国读书和海外求职 | content, service | split | 03-issue-units/issue-20260610-online-cs-to-offline-opt-feasibility.md |
 | topic-career-start-rebuild | 04-topic-clusters | 职业起步和路径重建 | 早期职业迷茫 | content, service, connection | clustered | 04-topic-clusters/topic-career-start-rebuild.md |
 | topic-consulting-boundaries-collaboration | 04-topic-clusters | 咨询流程和边界 | 私域沟通边界 | content, service | clustered | 04-topic-clusters/topic-consulting-boundaries-collaboration.md |
 | topic-degree-upgrade-stage-priority | 04-topic-clusters | 学历提升和阶段排序 | 学历提升和考研 | content, service, connection | clustered | 04-topic-clusters/topic-degree-upgrade-stage-priority.md |
@@ -93,4 +95,5 @@ Generated: 2026-06-07 10:20
 | connection-pool | 05-outputs | 连接池候选分组 |  |  | reusable | 05-outputs/connection-pool.md |
 | content-backlog | 05-outputs | 内容选题清单 |  |  | reusable | 05-outputs/content-backlog.md |
 | service-offers | 05-outputs | 服务产品雏形 |  |  | reusable | 05-outputs/service-offers.md |
+| visual-system | 05-outputs | 视觉系统：我常被问到的 100 个问题 |  |  | reusable | 05-outputs/visual-system.md |
 | article-20260606-liberal-arts-cs-fit | 06-article-drafts | AI 时代，文科或非技术背景的人还需要学编程吗？ | 文科转码 | content | draft | 06-article-drafts/article-20260606-liberal-arts-cs-fit.md |

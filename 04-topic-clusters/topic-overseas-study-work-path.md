@@ -34,6 +34,7 @@ updated: 2026-06-06
 - Day 1 CPT、MIU/Compro 类项目应该怎么判断？
 - 年龄焦虑和35岁风险下，要不要用海外读书换一条路？
 - 出国路径里，学历、钱、语言和申请应该怎么排序？
+- 在线硕士（Online Master）转线下（On-campus）的可行性与 OPT/签证规划？
 
 ## 典型处境
 
@@ -70,6 +71,7 @@ updated: 2026-06-06
 - `consult-20250921-zhaoyan-debt-overseas-work`
 - `consult-20250923-siji-japan-ireland-language-school`
 - `consult-20260308-kerwin-us-master-cloud-computing`
+- `consult-20260610-tonylu-civil-eng-us-cs-transition`
 
 ## 已有关联问题单元
 
@@ -82,6 +84,7 @@ updated: 2026-06-06
 - `issue-20260606-age-anxiety-overseas-study`
 - `issue-20260606-overseas-path-cost-language-degree`
 - `issue-20260606-law-to-cs-overseas`
+- `issue-20260610-online-cs-to-offline-opt-feasibility`
 
 ## 内容层可能性
 
@@ -91,6 +94,7 @@ updated: 2026-06-06
 - FAQ：语言学校能不能变成海外工作路径？
 - 文章：出国不是逃离债务的捷径。
 - 文章：当出国承载了太多愿望，它就不再只是一个路径。
+- FAQ：在线硕士（Online Master）能否转为线下项目？对 OPT 申请有什么时间规定？
 - 案例：云计算从业者如何用海外硕士突破学历焦虑。
 - 案例：日本 QA 想去爱尔兰的语言/身份/职业三重选择。
 

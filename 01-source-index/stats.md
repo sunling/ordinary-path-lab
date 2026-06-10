@@ -2,24 +2,24 @@
 
 ## kind
 
-- 02-normalized: 42
-- 03-issue-units: 37
+- 02-normalized: 43
+- 03-issue-units: 38
 - 04-topic-clusters: 7
-- 05-outputs: 3
+- 05-outputs: 4
 - 06-article-drafts: 1
 
 ## record_type
 
-- qa_thread: 15
+- qa_thread: 16
 - coaching_session: 14
 - consult_call: 12
-- output: 3
+- output: 4
 - collaboration: 1
 - article_draft: 1
 
 ## primary_theme
 
-- 出国读书和海外求职: 24
+- 出国读书和海外求职: 26
 - 早期职业迷茫: 21
 - 文科转码: 14
 - 学历提升和考研: 9
@@ -31,8 +31,8 @@
 
 ## layers
 
-- content: 81
-- service: 75
+- content: 83
+- service: 77
 - connection: 41
 
 ## tags
@@ -137,6 +137,7 @@
 - 学习方法: 2
 - AI学习: 2
 - 非全日制学历: 2
+- "美国硕士": 2
 - 信息收集: 2
 - 低成本试验: 2
 - 学习计划: 2
@@ -204,6 +205,11 @@
 - 美国留学: 1
 - 艺术学校: 1
 - 云计算: 1
+- ["转码": 1
+- "在线硕士": 1
+- "英国硕士": 1
+- "土木": 1
+- "职业转型"]: 1
 - creative coding: 1
 - 职业选择: 1
 - 作品感: 1
@@ -233,6 +239,10 @@
 - 市场: 1
 - 技术求职: 1
 - 安全感: 1
+- ["在线硕士": 1
+- "转码": 1
+- "签证": 1
+- "OPT"]: 1
 - 早期职业迷茫: 1
 - 非典型路径: 1
 - 私域边界: 1
