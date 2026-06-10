@@ -45,14 +45,10 @@ updated: 2026-06-06
 ## 已有关联记录
 
 - `consult-202211-wechat-boundary`
-- `consult-20250329-yangfan-ai-education-collaboration`
-- `consult-20240826-liuzhilong-dba-remote-grad`
 
 ## 已有关联问题单元
 
 - `issue-20260606-private-wechat-boundary`
-- `issue-20260606-personal-story-commercial-collaboration`
-- `issue-20260606-consultation-goal-clarity`
 
 ## 内容层可能性
 
@@ -77,4 +73,3 @@ updated: 2026-06-06
 
 - 建一个“咨询入口话术库”，包括加微信、无明确问题、合作邀约、免费问答转正式咨询。
 - 建一个“商业合作判断 checklist”，包括角色、授权、费用、责任、退出机制。
-

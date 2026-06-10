@@ -11,7 +11,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202211.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202211-career-vs-grad-school-family-opinion.md"
+    "record_path": "02-normalized/consult-202211-career-vs-grad-school-family-opinion.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202211-miu-java-esl-fees",
@@ -25,7 +26,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202211.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202211-miu-java-esl-fees.md"
+    "record_path": "02-normalized/consult-202211-miu-java-esl-fees.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202211-small-city-work-study",
@@ -39,7 +41,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202211.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202211-small-city-work-study.md"
+    "record_path": "02-normalized/consult-202211-small-city-work-study.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202211-wechat-boundary",
@@ -53,7 +56,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202211.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202211-wechat-boundary.md"
+    "record_path": "02-normalized/consult-202211-wechat-boundary.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202301-selfstudy-degree-miu-application",
@@ -67,7 +71,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202301.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202301-selfstudy-degree-miu-application.md"
+    "record_path": "02-normalized/consult-202301-selfstudy-degree-miu-application.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202302-art-student-overseas-undergrad-plan",
@@ -81,7 +86,8 @@
     "privacy_level": "private",
     "source_path": "问答咨询/202302.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202302-art-student-overseas-undergrad-plan.md"
+    "record_path": "02-normalized/consult-202302-art-student-overseas-undergrad-plan.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202303-selfstudy-cs-gradschool-work",
@@ -95,7 +101,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202303.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202303-selfstudy-cs-gradschool-work.md"
+    "record_path": "02-normalized/consult-202303-selfstudy-cs-gradschool-work.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202306-seven-years-dev-us-miu-risk",
@@ -109,7 +116,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202306.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202306-seven-years-dev-us-miu-risk.md"
+    "record_path": "02-normalized/consult-202306-seven-years-dev-us-miu-risk.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202311-age53-us-study-programmer",
@@ -123,7 +131,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202311.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202311-age53-us-study-programmer.md"
+    "record_path": "02-normalized/consult-202311-age53-us-study-programmer.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202312-985-cs-silicon-valley-route",
@@ -137,7 +146,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/985大一想润.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202312-985-cs-silicon-valley-route.md"
+    "record_path": "02-normalized/consult-202312-985-cs-silicon-valley-route.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202312-age35-compliance-to-us-coder",
@@ -151,7 +161,8 @@
     "privacy_level": "private",
     "source_path": "问答咨询/202312.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202312-age35-compliance-to-us-coder.md"
+    "record_path": "02-normalized/consult-202312-age35-compliance-to-us-coder.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202312-art-tech-python-start",
@@ -165,7 +176,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202312.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202312-art-tech-python-start.md"
+    "record_path": "02-normalized/consult-202312-art-tech-python-start.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202312-hk-student-cs-degree-choice",
@@ -179,7 +191,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/港大学生小刘.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202312-hk-student-cs-degree-choice.md"
+    "record_path": "02-normalized/consult-202312-hk-student-cs-degree-choice.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202312-law-to-cs-overseas-normalized",
@@ -193,7 +206,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/一本法学专业大三想转码出国.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202312-law-to-cs-overseas-normalized.md"
+    "record_path": "02-normalized/consult-202312-law-to-cs-overseas-normalized.md",
+    "additional_themes": []
   },
   {
     "id": "consult-202312-liberal-arts-python-bootcamp",
@@ -207,7 +221,8 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202312.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-202312-liberal-arts-python-bootcamp.md"
+    "record_path": "02-normalized/consult-202312-liberal-arts-python-bootcamp.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240823-siji-japan-qa-day1cpt",
@@ -221,7 +236,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年8月/1-王林银.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240823-siji-japan-qa-day1cpt.md"
+    "record_path": "02-normalized/consult-20240823-siji-japan-qa-day1cpt.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240826-liuzhilong-dba-remote-grad",
@@ -235,7 +251,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年8月/2-刘智龙.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240826-liuzhilong-dba-remote-grad.md"
+    "record_path": "02-normalized/consult-20240826-liuzhilong-dba-remote-grad.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240830-chenxiaonian-northamerica-introvert-tl",
@@ -249,7 +266,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年8月/3-陈晓念.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240830-chenxiaonian-northamerica-introvert-tl.md"
+    "record_path": "02-normalized/consult-20240830-chenxiaonian-northamerica-introvert-tl.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240906-mia-us-cs-work-growth",
@@ -263,7 +281,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/4-Mia.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240906-mia-us-cs-work-growth.md"
+    "record_path": "02-normalized/consult-20240906-mia-us-cs-work-growth.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240907-wangkaichang-iqc-film-dream-introvert",
@@ -277,7 +296,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/5-王开昌.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240907-wangkaichang-iqc-film-dream-introvert.md"
+    "record_path": "02-normalized/consult-20240907-wangkaichang-iqc-film-dream-introvert.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240911-k-gpu-master-job-balance",
@@ -291,7 +311,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/6-K.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240911-k-gpu-master-job-balance.md"
+    "record_path": "02-normalized/consult-20240911-k-gpu-master-job-balance.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240914-alex-young-english-cs-family",
@@ -305,7 +326,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/7-Alex.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240914-alex-young-english-cs-family.md"
+    "record_path": "02-normalized/consult-20240914-alex-young-english-cs-family.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240916-chengderong-rural-dev-writing-overseas",
@@ -319,7 +341,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/8-成得荣.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240916-chengderong-rural-dev-writing-overseas.md"
+    "record_path": "02-normalized/consult-20240916-chengderong-rural-dev-writing-overseas.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240920-kami-ew3-cs-path",
@@ -333,7 +356,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/9-咖眯.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240920-kami-ew3-cs-path.md"
+    "record_path": "02-normalized/consult-20240920-kami-ew3-cs-path.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240928-agan-la-delivery-cs-mentor",
@@ -347,7 +371,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/10-阿甘.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240928-agan-la-delivery-cs-mentor.md"
+    "record_path": "02-normalized/consult-20240928-agan-la-delivery-cs-mentor.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20240928-kerwin-first-overseas-study",
@@ -361,7 +386,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/11-Kerwin.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20240928-kerwin-first-overseas-study.md"
+    "record_path": "02-normalized/consult-20240928-kerwin-first-overseas-study.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20241007-shenhaiyu-underwear-pattern-maker-growth",
@@ -375,7 +401,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年10月/12-深海鱼.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20241007-shenhaiyu-underwear-pattern-maker-growth.md"
+    "record_path": "02-normalized/consult-20241007-shenhaiyu-underwear-pattern-maker-growth.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20241018-yyyjjjsss-remote-dev-age35-plan",
@@ -389,7 +416,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年10月/13-yyyjjjsss.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20241018-yyyjjjsss-remote-dev-age35-plan.md"
+    "record_path": "02-normalized/consult-20241018-yyyjjjsss-remote-dev-age35-plan.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20241028-qinghe-factory-doudian-programming-dream",
@@ -403,7 +431,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年10月/14-QINGHE20210418.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20241028-qinghe-factory-doudian-programming-dream.md"
+    "record_path": "02-normalized/consult-20241028-qinghe-factory-doudian-programming-dream.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250329-yangfan-ai-education-collaboration",
@@ -417,7 +446,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250329210011-转写_杨帆.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250329-yangfan-ai-education-collaboration.md"
+    "record_path": "02-normalized/consult-20250329-yangfan-ai-education-collaboration.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250811-zhaogaoming-programming-english-action",
@@ -431,7 +461,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250811122912-转写_赵高明 _ 孙玲.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250811-zhaogaoming-programming-english-action.md"
+    "record_path": "02-normalized/consult-20250811-zhaogaoming-programming-english-action.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250820-silver-self-belief-creator-path",
@@ -445,7 +476,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250820122553-SIlver _ 孙玲.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250820-silver-self-belief-creator-path.md"
+    "record_path": "02-normalized/consult-20250820-silver-self-belief-creator-path.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250828-amy-sweden-career-ai-regulation",
@@ -459,7 +491,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250828120647-转写_Amy _ Ling.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250828-amy-sweden-career-ai-regulation.md"
+    "record_path": "02-normalized/consult-20250828-amy-sweden-career-ai-regulation.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250829-lil-burnout-newyork-life-direction",
@@ -473,7 +506,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250829115713-转写_Lil _ Ling.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250829-lil-burnout-newyork-life-direction.md"
+    "record_path": "02-normalized/consult-20250829-lil-burnout-newyork-life-direction.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250831-gongbaojiding-offer-choice",
@@ -487,7 +521,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250831205315-转写_Nsar-ns _ Ling.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250831-gongbaojiding-offer-choice.md"
+    "record_path": "02-normalized/consult-20250831-gongbaojiding-offer-choice.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250918-seven-midcareer-grief-career",
@@ -501,7 +536,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250918140527-孙玲的个人会议室.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250918-seven-midcareer-grief-career.md"
+    "record_path": "02-normalized/consult-20250918-seven-midcareer-grief-career.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250920-wzyan-programming-overseas-uncertainty",
@@ -515,7 +551,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250920070005-转写_wzyan _ lingsun.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250920-wzyan-programming-overseas-uncertainty.md"
+    "record_path": "02-normalized/consult-20250920-wzyan-programming-overseas-uncertainty.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250921-zhaoyan-debt-overseas-work",
@@ -529,7 +566,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250922115717-转写_wx_123_888 _ ling.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250921-zhaoyan-debt-overseas-work.md"
+    "record_path": "02-normalized/consult-20250921-zhaoyan-debt-overseas-work.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250923-siji-japan-ireland-language-school",
@@ -543,7 +581,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250923115513-转写_王林银 _ 孙玲.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250923-siji-japan-ireland-language-school.md"
+    "record_path": "02-normalized/consult-20250923-siji-japan-ireland-language-school.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20250925-gongbaojiding-english-followup",
@@ -557,7 +596,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250925120015-转写_龚保鸡丁.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20250925-gongbaojiding-english-followup.md"
+    "record_path": "02-normalized/consult-20250925-gongbaojiding-english-followup.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20260208-huangzeming-self-study-degree-planning",
@@ -571,7 +611,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20260208130029-转写_黄泽明.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20260208-huangzeming-self-study-degree-planning.md"
+    "record_path": "02-normalized/consult-20260208-huangzeming-self-study-degree-planning.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20260308-kerwin-us-master-cloud-computing",
@@ -585,7 +626,8 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20260308125902-转写_Kerwin-转写智能优化版-1.txt",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20260308-kerwin-us-master-cloud-computing.md"
+    "record_path": "02-normalized/consult-20260308-kerwin-us-master-cloud-computing.md",
+    "additional_themes": []
   },
   {
     "id": "consult-20260610-tonylu-civil-eng-us-cs-transition",
@@ -593,13 +635,14 @@
     "record_type": "qa_thread",
     "title": "UCL土木硕士咨询美国转码与在线硕士路径",
     "primary_theme": "出国读书和海外求职",
-    "tags": "[\"转码\", \"在线硕士\", \"美国硕士\", \"英国硕士\", \"土木\", \"职业转型\"]",
+    "tags": "转码, 在线硕士, 美国硕士, 英国硕士, 土木, 职业转型",
     "layers": "content, service",
     "status": "normalized",
     "privacy_level": "private",
     "source_path": "一对一咨询/20260610-gmail-tonylu-transition-inquiry.md",
     "source_consult_id": "",
-    "record_path": "02-normalized/consult-20260610-tonylu-civil-eng-us-cs-transition.md"
+    "record_path": "02-normalized/consult-20260610-tonylu-civil-eng-us-cs-transition.md",
+    "additional_themes": []
   },
   {
     "id": "issue-20260606-age-anxiety-overseas-study",
@@ -613,7 +656,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202311.md",
     "source_consult_id": "consult-202311-age53-us-study-programmer",
-    "record_path": "03-issue-units/issue-20260606-age-anxiety-overseas-study.md"
+    "record_path": "03-issue-units/issue-20260606-age-anxiety-overseas-study.md",
+    "additional_themes": [
+      "出国读书和海外求职",
+      "早期职业迷茫"
+    ]
   },
   {
     "id": "issue-20260606-age35-remote-side-income",
@@ -627,7 +674,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年10月/13-yyyjjjsss.md",
     "source_consult_id": "consult-20241018-yyyjjjsss-remote-dev-age35-plan",
-    "record_path": "03-issue-units/issue-20260606-age35-remote-side-income.md"
+    "record_path": "03-issue-units/issue-20260606-age35-remote-side-income.md",
+    "additional_themes": [
+      "职业起步和路径重建",
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-artist-learn-python-for-creative-work",
@@ -641,7 +692,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202312.md",
     "source_consult_id": "consult-202312-art-tech-python-start",
-    "record_path": "03-issue-units/issue-20260606-artist-learn-python-for-creative-work.md"
+    "record_path": "03-issue-units/issue-20260606-artist-learn-python-for-creative-work.md",
+    "additional_themes": [
+      "文科/非典型学历转码",
+      "职业起步和路径重建"
+    ]
   },
   {
     "id": "issue-20260606-ask-vs-create-information",
@@ -655,7 +710,11 @@
     "privacy_level": "anonymized",
     "source_path": "一对一咨询/2024年9月/8-成得荣.md",
     "source_consult_id": "consult-20240916-chengderong-rural-dev-writing-overseas",
-    "record_path": "03-issue-units/issue-20260606-ask-vs-create-information.md"
+    "record_path": "03-issue-units/issue-20260606-ask-vs-create-information.md",
+    "additional_themes": [
+      "职业起步和路径重建",
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-big-dream-first-step",
@@ -669,7 +728,10 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年10月/14-QINGHE20210418.md",
     "source_consult_id": "consult-20241028-qinghe-factory-doudian-programming-dream",
-    "record_path": "03-issue-units/issue-20260606-big-dream-first-step.md"
+    "record_path": "03-issue-units/issue-20260606-big-dream-first-step.md",
+    "additional_themes": [
+      "职业起步和路径重建"
+    ]
   },
   {
     "id": "issue-20260606-burnout-rest-or-restart",
@@ -683,7 +745,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250829115713-转写_Lil _ Ling.txt",
     "source_consult_id": "consult-20250829-lil-burnout-newyork-life-direction",
-    "record_path": "03-issue-units/issue-20260606-burnout-rest-or-restart.md"
+    "record_path": "03-issue-units/issue-20260606-burnout-rest-or-restart.md",
+    "additional_themes": [
+      "家庭影响和自我选择",
+      "职业起步和路径重建"
+    ]
   },
   {
     "id": "issue-20260606-coding-bootcamp-judge",
@@ -697,7 +763,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202312.md",
     "source_consult_id": "consult-202312-liberal-arts-python-bootcamp",
-    "record_path": "03-issue-units/issue-20260606-coding-bootcamp-judge.md"
+    "record_path": "03-issue-units/issue-20260606-coding-bootcamp-judge.md",
+    "additional_themes": [
+      "文科/非典型学历转码",
+      "早期职业迷茫"
+    ]
   },
   {
     "id": "issue-20260606-coding-interest-low-cost-test",
@@ -711,7 +781,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/一本法学专业大三想转码出国.md",
     "source_consult_id": "consult-202312-law-to-cs-overseas-normalized",
-    "record_path": "03-issue-units/issue-20260606-coding-interest-low-cost-test.md"
+    "record_path": "03-issue-units/issue-20260606-coding-interest-low-cost-test.md",
+    "additional_themes": [
+      "文科/非典型学历转码",
+      "英语和编程作为职业杠杆"
+    ]
   },
   {
     "id": "issue-20260606-consultation-goal-clarity",
@@ -725,7 +799,10 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年8月/2-刘智龙.md",
     "source_consult_id": "consult-20240826-liuzhilong-dba-remote-grad",
-    "record_path": "03-issue-units/issue-20260606-consultation-goal-clarity.md"
+    "record_path": "03-issue-units/issue-20260606-consultation-goal-clarity.md",
+    "additional_themes": [
+      "职业起步和路径重建"
+    ]
   },
   {
     "id": "issue-20260606-day1cpt-miu-compro-judge",
@@ -739,7 +816,11 @@
     "privacy_level": "anonymized",
     "source_path": "一对一咨询/2024年8月/1-王林银.md",
     "source_consult_id": "consult-20240823-siji-japan-qa-day1cpt",
-    "record_path": "03-issue-units/issue-20260606-day1cpt-miu-compro-judge.md"
+    "record_path": "03-issue-units/issue-20260606-day1cpt-miu-compro-judge.md",
+    "additional_themes": [
+      "出国读书和海外求职",
+      "文科/非典型学历转码"
+    ]
   },
   {
     "id": "issue-20260606-degree-choice-controllable-vs-uncontrollable",
@@ -753,7 +834,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/港大学生小刘.md",
     "source_consult_id": "consult-202312-hk-student-cs-degree-choice",
-    "record_path": "03-issue-units/issue-20260606-degree-choice-controllable-vs-uncontrollable.md"
+    "record_path": "03-issue-units/issue-20260606-degree-choice-controllable-vs-uncontrollable.md",
+    "additional_themes": [
+      "学历提升和阶段排序",
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-dream-self-worth-small-action",
@@ -767,7 +852,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/5-王开昌.md",
     "source_consult_id": "consult-20240907-wangkaichang-iqc-film-dream-introvert",
-    "record_path": "03-issue-units/issue-20260606-dream-self-worth-small-action.md"
+    "record_path": "03-issue-units/issue-20260606-dream-self-worth-small-action.md",
+    "additional_themes": [
+      "家庭影响和自我选择",
+      "职业起步和路径重建"
+    ]
   },
   {
     "id": "issue-20260606-english-weak-overseas-tech-path",
@@ -781,7 +870,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202306.md",
     "source_consult_id": "consult-202306-seven-years-dev-us-miu-risk",
-    "record_path": "03-issue-units/issue-20260606-english-weak-overseas-tech-path.md"
+    "record_path": "03-issue-units/issue-20260606-english-weak-overseas-tech-path.md",
+    "additional_themes": [
+      "出国读书和海外求职",
+      "文科/非典型学历转码"
+    ]
   },
   {
     "id": "issue-20260606-enter-programmer-community",
@@ -795,7 +888,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202312.md",
     "source_consult_id": "consult-202312-liberal-arts-python-bootcamp",
-    "record_path": "03-issue-units/issue-20260606-enter-programmer-community.md"
+    "record_path": "03-issue-units/issue-20260606-enter-programmer-community.md",
+    "additional_themes": [
+      "文科/非典型学历转码",
+      "连接池候选主题"
+    ]
   },
   {
     "id": "issue-20260606-family-not-understand-self-path",
@@ -809,7 +906,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250820122553-SIlver _ 孙玲.txt",
     "source_consult_id": "consult-20250820-silver-self-belief-creator-path",
-    "record_path": "03-issue-units/issue-20260606-family-not-understand-self-path.md"
+    "record_path": "03-issue-units/issue-20260606-family-not-understand-self-path.md",
+    "additional_themes": [
+      "家庭影响和自我选择",
+      "职业起步和路径重建"
+    ]
   },
   {
     "id": "issue-20260606-finish-small-degree-goal",
@@ -823,7 +924,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20260208130029-转写_黄泽明.txt",
     "source_consult_id": "consult-20260208-huangzeming-self-study-degree-planning",
-    "record_path": "03-issue-units/issue-20260606-finish-small-degree-goal.md"
+    "record_path": "03-issue-units/issue-20260606-finish-small-degree-goal.md",
+    "additional_themes": [
+      "学历提升和阶段排序",
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-gender-diversity-tech-misconception",
@@ -837,7 +942,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/一本法学专业大三想转码出国.md",
     "source_consult_id": "consult-202312-law-to-cs-overseas-normalized",
-    "record_path": "03-issue-units/issue-20260606-gender-diversity-tech-misconception.md"
+    "record_path": "03-issue-units/issue-20260606-gender-diversity-tech-misconception.md",
+    "additional_themes": [
+      "文科/非典型学历转码",
+      "女性进入科技行业"
+    ]
   },
   {
     "id": "issue-20260606-grad-school-vs-work-family-opinion",
@@ -851,7 +960,12 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202211.md",
     "source_consult_id": "consult-202211-career-vs-grad-school-family-opinion",
-    "record_path": "03-issue-units/issue-20260606-grad-school-vs-work-family-opinion.md"
+    "record_path": "03-issue-units/issue-20260606-grad-school-vs-work-family-opinion.md",
+    "additional_themes": [
+      "学历提升和阶段排序",
+      "家庭影响和自我选择",
+      "小城市女性职业起步"
+    ]
   },
   {
     "id": "issue-20260606-input-without-action",
@@ -865,7 +979,11 @@
     "privacy_level": "anonymized",
     "source_path": "一对一咨询/20250811122912-转写_赵高明 _ 孙玲.txt",
     "source_consult_id": "consult-20250811-zhaogaoming-programming-english-action",
-    "record_path": "03-issue-units/issue-20260606-input-without-action.md"
+    "record_path": "03-issue-units/issue-20260606-input-without-action.md",
+    "additional_themes": [
+      "职业起步和路径重建",
+      "文科/非典型学历转码"
+    ]
   },
   {
     "id": "issue-20260606-language-school-career-identity",
@@ -879,7 +997,10 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250923115513-转写_王林银 _ 孙玲.txt",
     "source_consult_id": "consult-20250923-siji-japan-ireland-language-school",
-    "record_path": "03-issue-units/issue-20260606-language-school-career-identity.md"
+    "record_path": "03-issue-units/issue-20260606-language-school-career-identity.md",
+    "additional_themes": [
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-law-to-cs-overseas",
@@ -893,7 +1014,12 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/一本法学专业大三想转码出国.md",
     "source_consult_id": "",
-    "record_path": "03-issue-units/issue-20260606-law-to-cs-overseas.md"
+    "record_path": "03-issue-units/issue-20260606-law-to-cs-overseas.md",
+    "additional_themes": [
+      "文科转码",
+      "出国读书和海外求职",
+      "女性进入科技行业"
+    ]
   },
   {
     "id": "issue-20260606-liberal-arts-cs-fit",
@@ -907,7 +1033,12 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202312.md",
     "source_consult_id": "consult-202312-liberal-arts-python-bootcamp",
-    "record_path": "03-issue-units/issue-20260606-liberal-arts-cs-fit.md"
+    "record_path": "03-issue-units/issue-20260606-liberal-arts-cs-fit.md",
+    "additional_themes": [
+      "文科/非典型学历转码",
+      "早期职业迷茫",
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-midcareer-grief-career-rebuild",
@@ -921,7 +1052,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250918140527-孙玲的个人会议室.txt",
     "source_consult_id": "consult-20250918-seven-midcareer-grief-career",
-    "record_path": "03-issue-units/issue-20260606-midcareer-grief-career-rebuild.md"
+    "record_path": "03-issue-units/issue-20260606-midcareer-grief-career-rebuild.md",
+    "additional_themes": [
+      "职业起步和路径重建",
+      "家庭影响和自我边界"
+    ]
   },
   {
     "id": "issue-20260606-new-role-prioritize-learning",
@@ -935,7 +1070,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250925120015-转写_龚保鸡丁.txt",
     "source_consult_id": "consult-20250925-gongbaojiding-english-followup",
-    "record_path": "03-issue-units/issue-20260606-new-role-prioritize-learning.md"
+    "record_path": "03-issue-units/issue-20260606-new-role-prioritize-learning.md",
+    "additional_themes": [
+      "职业起步和路径重建",
+      "文科/非典型学历转码"
+    ]
   },
   {
     "id": "issue-20260606-nontraditional-degree-overseas-cs",
@@ -949,7 +1088,11 @@
     "privacy_level": "anonymized",
     "source_path": "一对一咨询/20260308125902-转写_Kerwin-转写智能优化版-1.txt",
     "source_consult_id": "consult-20260308-kerwin-us-master-cloud-computing",
-    "record_path": "03-issue-units/issue-20260606-nontraditional-degree-overseas-cs.md"
+    "record_path": "03-issue-units/issue-20260606-nontraditional-degree-overseas-cs.md",
+    "additional_themes": [
+      "出国读书和海外求职",
+      "文科/非典型学历转码"
+    ]
   },
   {
     "id": "issue-20260606-offer-choice-status-vs-growth",
@@ -963,7 +1106,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250831205315-转写_Nsar-ns _ Ling.txt",
     "source_consult_id": "consult-20250831-gongbaojiding-offer-choice",
-    "record_path": "03-issue-units/issue-20260606-offer-choice-status-vs-growth.md"
+    "record_path": "03-issue-units/issue-20260606-offer-choice-status-vs-growth.md",
+    "additional_themes": [
+      "职业起步和路径重建",
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-official-policy-vs-alumni-experience",
@@ -977,7 +1124,10 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202211.md",
     "source_consult_id": "consult-202211-miu-java-esl-fees",
-    "record_path": "03-issue-units/issue-20260606-official-policy-vs-alumni-experience.md"
+    "record_path": "03-issue-units/issue-20260606-official-policy-vs-alumni-experience.md",
+    "additional_themes": [
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-overseas-not-fast-debt-solution",
@@ -991,7 +1141,10 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250922115717-转写_wx_123_888 _ ling.txt",
     "source_consult_id": "consult-20250921-zhaoyan-debt-overseas-work",
-    "record_path": "03-issue-units/issue-20260606-overseas-not-fast-debt-solution.md"
+    "record_path": "03-issue-units/issue-20260606-overseas-not-fast-debt-solution.md",
+    "additional_themes": [
+      "出国读书和海外求职"
+    ]
   },
   {
     "id": "issue-20260606-overseas-path-cost-language-degree",
@@ -1005,7 +1158,11 @@
     "privacy_level": "private",
     "source_path": "问答咨询/202302.md",
     "source_consult_id": "consult-202302-art-student-overseas-undergrad-plan",
-    "record_path": "03-issue-units/issue-20260606-overseas-path-cost-language-degree.md"
+    "record_path": "03-issue-units/issue-20260606-overseas-path-cost-language-degree.md",
+    "additional_themes": [
+      "出国读书和海外求职",
+      "文科/非典型学历转码"
+    ]
   },
   {
     "id": "issue-20260606-personal-story-commercial-collaboration",
@@ -1019,7 +1176,10 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/20250329210011-转写_杨帆.txt",
     "source_consult_id": "consult-20250329-yangfan-ai-education-collaboration",
-    "record_path": "03-issue-units/issue-20260606-personal-story-commercial-collaboration.md"
+    "record_path": "03-issue-units/issue-20260606-personal-story-commercial-collaboration.md",
+    "additional_themes": [
+      "咨询流程和边界"
+    ]
   },
   {
     "id": "issue-20260606-private-wechat-boundary",
@@ -1033,7 +1193,10 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202211.md",
     "source_consult_id": "consult-202211-wechat-boundary",
-    "record_path": "03-issue-units/issue-20260606-private-wechat-boundary.md"
+    "record_path": "03-issue-units/issue-20260606-private-wechat-boundary.md",
+    "additional_themes": [
+      "咨询流程和边界"
+    ]
   },
   {
     "id": "issue-20260606-python-vs-java-beginner",
@@ -1047,7 +1210,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202312.md",
     "source_consult_id": "consult-202312-liberal-arts-python-bootcamp",
-    "record_path": "03-issue-units/issue-20260606-python-vs-java-beginner.md"
+    "record_path": "03-issue-units/issue-20260606-python-vs-java-beginner.md",
+    "additional_themes": [
+      "文科/非典型学历转码",
+      "AI学习和编程工具"
+    ]
   },
   {
     "id": "issue-20260606-selfstudy-exam-work-overseas-priority",
@@ -1061,7 +1228,11 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202303.md",
     "source_consult_id": "consult-202303-selfstudy-cs-gradschool-work",
-    "record_path": "03-issue-units/issue-20260606-selfstudy-exam-work-overseas-priority.md"
+    "record_path": "03-issue-units/issue-20260606-selfstudy-exam-work-overseas-priority.md",
+    "additional_themes": [
+      "学历提升和阶段排序",
+      "文科/非典型学历转码"
+    ]
   },
   {
     "id": "issue-20260606-small-city-women-work-or-study",
@@ -1075,7 +1246,12 @@
     "privacy_level": "anonymized",
     "source_path": "问答咨询/202211.md",
     "source_consult_id": "consult-202211-small-city-work-study",
-    "record_path": "03-issue-units/issue-20260606-small-city-women-work-or-study.md"
+    "record_path": "03-issue-units/issue-20260606-small-city-women-work-or-study.md",
+    "additional_themes": [
+      "小城市女性职业起步",
+      "学历提升和阶段排序",
+      "家庭影响和自我选择"
+    ]
   },
   {
     "id": "issue-20260606-stable-skill-next-stage",
@@ -1089,7 +1265,11 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年10月/12-深海鱼.md",
     "source_consult_id": "consult-20241007-shenhaiyu-underwear-pattern-maker-growth",
-    "record_path": "03-issue-units/issue-20260606-stable-skill-next-stage.md"
+    "record_path": "03-issue-units/issue-20260606-stable-skill-next-stage.md",
+    "additional_themes": [
+      "职业起步和路径重建",
+      "小城市女性职业起步"
+    ]
   },
   {
     "id": "issue-20260606-technical-student-job-definition",
@@ -1103,7 +1283,10 @@
     "privacy_level": "anonymized",
     "source_path": "一对一咨询/2024年9月/6-K.md",
     "source_consult_id": "consult-20240911-k-gpu-master-job-balance",
-    "record_path": "03-issue-units/issue-20260606-technical-student-job-definition.md"
+    "record_path": "03-issue-units/issue-20260606-technical-student-job-definition.md",
+    "additional_themes": [
+      "职业起步和路径重建"
+    ]
   },
   {
     "id": "issue-20260606-young-woman-leave-family-environment",
@@ -1117,7 +1300,12 @@
     "privacy_level": "private",
     "source_path": "一对一咨询/2024年9月/7-Alex.md",
     "source_consult_id": "consult-20240914-alex-young-english-cs-family",
-    "record_path": "03-issue-units/issue-20260606-young-woman-leave-family-environment.md"
+    "record_path": "03-issue-units/issue-20260606-young-woman-leave-family-environment.md",
+    "additional_themes": [
+      "家庭影响和自我选择",
+      "小城市女性职业起步",
+      "文科/非典型学历转码"
+    ]
   },
   {
     "id": "issue-20260610-online-cs-to-offline-opt-feasibility",
@@ -1125,13 +1313,16 @@
     "record_type": "",
     "title": "在线硕士（Online Master）转线下（On-campus）的可行性与 OPT/签证规划",
     "primary_theme": "出国读书和海外求职",
-    "tags": "[\"在线硕士\", \"美国硕士\", \"转码\", \"签证\", \"OPT\"]",
+    "tags": "在线硕士, 美国硕士, 转码, 签证, OPT",
     "layers": "content, service",
     "status": "split",
     "privacy_level": "anonymized",
     "source_path": "02-normalized/consult-20260610-tonylu-civil-eng-us-cs-transition.md",
     "source_consult_id": "consult-20260610-tonylu-civil-eng-us-cs-transition",
-    "record_path": "03-issue-units/issue-20260610-online-cs-to-offline-opt-feasibility.md"
+    "record_path": "03-issue-units/issue-20260610-online-cs-to-offline-opt-feasibility.md",
+    "additional_themes": [
+      "`topic-overseas-study-work-path` (出国读书和海外求职)"
+    ]
   },
   {
     "id": "topic-career-start-rebuild",
@@ -1145,7 +1336,8 @@
     "privacy_level": "anonymized",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "04-topic-clusters/topic-career-start-rebuild.md"
+    "record_path": "04-topic-clusters/topic-career-start-rebuild.md",
+    "additional_themes": []
   },
   {
     "id": "topic-consulting-boundaries-collaboration",
@@ -1159,7 +1351,8 @@
     "privacy_level": "private",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "04-topic-clusters/topic-consulting-boundaries-collaboration.md"
+    "record_path": "04-topic-clusters/topic-consulting-boundaries-collaboration.md",
+    "additional_themes": []
   },
   {
     "id": "topic-degree-upgrade-stage-priority",
@@ -1173,7 +1366,8 @@
     "privacy_level": "anonymized",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "04-topic-clusters/topic-degree-upgrade-stage-priority.md"
+    "record_path": "04-topic-clusters/topic-degree-upgrade-stage-priority.md",
+    "additional_themes": []
   },
   {
     "id": "topic-family-boundary-self-choice",
@@ -1187,7 +1381,8 @@
     "privacy_level": "private",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "04-topic-clusters/topic-family-boundary-self-choice.md"
+    "record_path": "04-topic-clusters/topic-family-boundary-self-choice.md",
+    "additional_themes": []
   },
   {
     "id": "topic-liberal-arts-nontraditional-cs-transition",
@@ -1201,7 +1396,8 @@
     "privacy_level": "anonymized",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "04-topic-clusters/topic-liberal-arts-nontraditional-cs-transition.md"
+    "record_path": "04-topic-clusters/topic-liberal-arts-nontraditional-cs-transition.md",
+    "additional_themes": []
   },
   {
     "id": "topic-overseas-study-work-path",
@@ -1215,7 +1411,8 @@
     "privacy_level": "anonymized",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "04-topic-clusters/topic-overseas-study-work-path.md"
+    "record_path": "04-topic-clusters/topic-overseas-study-work-path.md",
+    "additional_themes": []
   },
   {
     "id": "topic-small-city-women-career",
@@ -1229,7 +1426,8 @@
     "privacy_level": "anonymized",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "04-topic-clusters/topic-small-city-women-career.md"
+    "record_path": "04-topic-clusters/topic-small-city-women-career.md",
+    "additional_themes": []
   },
   {
     "id": "connection-pool",
@@ -1243,7 +1441,8 @@
     "privacy_level": "private",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "05-outputs/connection-pool.md"
+    "record_path": "05-outputs/connection-pool.md",
+    "additional_themes": []
   },
   {
     "id": "content-backlog",
@@ -1257,7 +1456,8 @@
     "privacy_level": "",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "05-outputs/content-backlog.md"
+    "record_path": "05-outputs/content-backlog.md",
+    "additional_themes": []
   },
   {
     "id": "service-offers",
@@ -1271,7 +1471,8 @@
     "privacy_level": "",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "05-outputs/service-offers.md"
+    "record_path": "05-outputs/service-offers.md",
+    "additional_themes": []
   },
   {
     "id": "visual-system",
@@ -1285,7 +1486,8 @@
     "privacy_level": "",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "05-outputs/visual-system.md"
+    "record_path": "05-outputs/visual-system.md",
+    "additional_themes": []
   },
   {
     "id": "article-20260606-liberal-arts-cs-fit",
@@ -1299,6 +1501,7 @@
     "privacy_level": "private",
     "source_path": "",
     "source_consult_id": "",
-    "record_path": "06-article-drafts/article-20260606-liberal-arts-cs-fit.md"
+    "record_path": "06-article-drafts/article-20260606-liberal-arts-cs-fit.md",
+    "additional_themes": []
   }
 ]

@@ -52,22 +52,21 @@ updated: 2026-06-06
 
 ## 已有关联记录
 
-- `consult-202312-liberal-arts-python-bootcamp`
-- `consult-202312-law-to-cs-overseas-normalized`
 - `consult-202312-age35-compliance-to-us-coder`
-- `consult-20250920-wzyan-programming-overseas-uncertainty`
+- `consult-202312-law-to-cs-overseas-normalized`
+- `consult-202312-liberal-arts-python-bootcamp`
 - `consult-20240906-mia-us-cs-work-growth`
-- `consult-20260308-kerwin-us-master-cloud-computing`
+- `consult-20250920-wzyan-programming-overseas-uncertainty`
 
 ## 已有关联问题单元
 
-- `issue-20260606-liberal-arts-cs-fit`
-- `issue-20260606-coding-interest-low-cost-test`
-- `issue-20260606-python-vs-java-beginner`
 - `issue-20260606-coding-bootcamp-judge`
+- `issue-20260606-coding-interest-low-cost-test`
 - `issue-20260606-enter-programmer-community`
 - `issue-20260606-gender-diversity-tech-misconception`
 - `issue-20260606-law-to-cs-overseas`
+- `issue-20260606-liberal-arts-cs-fit`
+- `issue-20260606-python-vs-java-beginner`
 
 ## 内容层可能性
 
@@ -97,4 +96,3 @@ updated: 2026-06-06
 - 从 `consult-20250831-gongbaojiding-offer-choice` 拆出“低学历测试工程师是否要学代码”。
 - 从 `consult-20250925-gongbaojiding-english-followup` 拆出“QA 如何从英文环境和开发同事那里成长”。
 - 从 `consult-20260308-kerwin-us-master-cloud-computing` 拆出“非全日制技术从业者能否申请美国 CS 硕士”。
-

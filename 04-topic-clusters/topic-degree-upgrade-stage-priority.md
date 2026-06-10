@@ -55,12 +55,10 @@ updated: 2026-06-06
 
 ## 已有关联问题单元
 
-- `issue-20260606-grad-school-vs-work-family-opinion`
-- `issue-20260606-selfstudy-exam-work-overseas-priority`
 - `issue-20260606-degree-choice-controllable-vs-uncontrollable`
 - `issue-20260606-finish-small-degree-goal`
-- `issue-20260606-nontraditional-degree-overseas-cs`
-- `issue-20260606-overseas-path-cost-language-degree`
+- `issue-20260606-grad-school-vs-work-family-opinion`
+- `issue-20260606-selfstudy-exam-work-overseas-priority`
 
 ## 内容层可能性
 
@@ -90,4 +88,3 @@ updated: 2026-06-06
 
 - 和 `出国读书和海外求职` 主题交叉，补一个“学历条件表”模板。
 - 和 `家庭影响和自我选择` 主题交叉，补“家人意见影响学历选择”的案例组。
-

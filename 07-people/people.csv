@@ -1,3 +1,2 @@
 person_id,display_name,real_name,contact_channel,contact_value,short_intro,primary_theme,tags,related_records,connection_fit,consent_to_connect,privacy_level,last_contacted,notes,created,updated
-person-YYYYMMDD-slug,,,,,"一句话介绍：年龄/地点/身份/核心问题",主题,"标签1, 标签2","consult-xxx; issue-xxx",maybe,unknown,private,,只写必要备注,2026-06-07,2026-06-07
-person-20260610-tonylu,Tony Lu,,email,qianxi.lu.25@ucl.ac.uk,"UCL土木硕士在读，商科背景，咨询美国转码、在线硕士路径与OPT规划",出国读书和海外求职,"转码, 在线硕士, 英国硕士, 美国硕士","consult-20260610-tonylu-civil-eng-us-cs-transition; issue-20260610-online-cs-to-offline-opt-feasibility",maybe,unknown,private,2026-06-10,待其回复预约具体信息和时间段,2026-06-10,2026-06-10
+person-20260610-tonylu,Tony Lu,,email,qianxi.lu.25@ucl.ac.uk,UCL土木硕士在读，商科背景，咨询美国转码、在线硕士路径与OPT规划,出国读书和海外求职,"转码, 在线硕士, 英国硕士, 美国硕士",consult-20260610-tonylu-civil-eng-us-cs-transition; issue-20260610-online-cs-to-offline-opt-feasibility,maybe,unknown,private,2026-06-10,待其回复预约具体信息和时间段,2026-06-10,2026-06-10

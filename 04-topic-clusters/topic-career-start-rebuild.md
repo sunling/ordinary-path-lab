@@ -60,29 +60,32 @@ updated: 2026-06-06
 
 ## 已有关联记录
 
-- `consult-20250831-gongbaojiding-offer-choice`
-- `consult-20250925-gongbaojiding-english-followup`
-- `consult-20250811-zhaogaoming-programming-english-action`
-- `consult-20241028-qinghe-factory-doudian-programming-dream`
-- `consult-20240916-chengderong-rural-dev-writing-overseas`
-- `consult-20241018-yyyjjjsss-remote-dev-age35-plan`
-- `consult-20250918-seven-midcareer-grief-career`
-- `consult-20241007-shenhaiyu-underwear-pattern-maker-growth`
-- `consult-20240911-k-gpu-master-job-balance`
 - `consult-20240826-liuzhilong-dba-remote-grad`
+- `consult-20240911-k-gpu-master-job-balance`
+- `consult-20240916-chengderong-rural-dev-writing-overseas`
+- `consult-20241007-shenhaiyu-underwear-pattern-maker-growth`
+- `consult-20241018-yyyjjjsss-remote-dev-age35-plan`
+- `consult-20241028-qinghe-factory-doudian-programming-dream`
+- `consult-20250811-zhaogaoming-programming-english-action`
+- `consult-20250831-gongbaojiding-offer-choice`
+- `consult-20250918-seven-midcareer-grief-career`
+- `consult-20250925-gongbaojiding-english-followup`
 
 ## 已有关联问题单元
 
-- `issue-20260606-offer-choice-status-vs-growth`
-- `issue-20260606-new-role-prioritize-learning`
-- `issue-20260606-input-without-action`
-- `issue-20260606-big-dream-first-step`
-- `issue-20260606-ask-vs-create-information`
+- `issue-20260606-age-anxiety-overseas-study`
 - `issue-20260606-age35-remote-side-income`
+- `issue-20260606-ask-vs-create-information`
+- `issue-20260606-big-dream-first-step`
+- `issue-20260606-coding-bootcamp-judge`
+- `issue-20260606-consultation-goal-clarity`
+- `issue-20260606-input-without-action`
+- `issue-20260606-liberal-arts-cs-fit`
 - `issue-20260606-midcareer-grief-career-rebuild`
+- `issue-20260606-new-role-prioritize-learning`
+- `issue-20260606-offer-choice-status-vs-growth`
 - `issue-20260606-stable-skill-next-stage`
 - `issue-20260606-technical-student-job-definition`
-- `issue-20260606-consultation-goal-clarity`
 
 ## 内容层可能性
 
@@ -120,4 +123,3 @@ updated: 2026-06-06
 - 把 `consult-202211-career-vs-grad-school-family-opinion` 和小城市女性主题连接起来，拆出“考研还是工作，如何处理家人意见”。
 - 从 `consult-20250831-gongbaojiding-offer-choice` 继续拆出“低学历测试是否要学代码”。
 - 从 `consult-20250925-gongbaojiding-english-followup` 继续拆出“QA 如何从开发同事那里学习真实技术流程”。
-

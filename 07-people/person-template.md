@@ -9,6 +9,10 @@ tags: []
 privacy_level: private
 connection_fit: maybe
 consent_to_connect: unknown
+short_intro: ""
+related_records: []
+last_contacted: ""
+notes: ""
 created: 2026-06-07
 updated: 2026-06-07
 ---

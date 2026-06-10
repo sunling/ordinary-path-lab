@@ -52,20 +52,18 @@ updated: 2026-06-06
 
 ## 已有关联记录
 
+- `consult-20240907-wangkaichang-iqc-film-dream-introvert`
 - `consult-20240914-alex-young-english-cs-family`
 - `consult-20250820-silver-self-belief-creator-path`
 - `consult-20250829-lil-burnout-newyork-life-direction`
-- `consult-20240907-wangkaichang-iqc-film-dream-introvert`
-- `consult-202211-career-vs-grad-school-family-opinion`
 
 ## 已有关联问题单元
 
-- `issue-20260606-young-woman-leave-family-environment`
-- `issue-20260606-family-not-understand-self-path`
 - `issue-20260606-burnout-rest-or-restart`
 - `issue-20260606-dream-self-worth-small-action`
-- `issue-20260606-grad-school-vs-work-family-opinion`
+- `issue-20260606-family-not-understand-self-path`
 - `issue-20260606-midcareer-grief-career-rebuild`
+- `issue-20260606-young-woman-leave-family-environment`
 
 ## 内容层可能性
 
@@ -97,4 +95,3 @@ updated: 2026-06-06
 
 - 和 `小城市女性职业起步` 主题合并检查，看是否需要独立保留小城市主题。
 - 建一个私密风险标记规则：家暴、抑郁、债务、亲人离世、借钱、签证身份。
-

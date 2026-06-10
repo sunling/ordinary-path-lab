@@ -75,15 +75,21 @@ updated: 2026-06-06
 
 ## 已有关联问题单元
 
-- `issue-20260606-nontraditional-degree-overseas-cs`
-- `issue-20260606-official-policy-vs-alumni-experience`
-- `issue-20260606-english-weak-overseas-tech-path`
-- `issue-20260606-overseas-not-fast-debt-solution`
-- `issue-20260606-language-school-career-identity`
-- `issue-20260606-day1cpt-miu-compro-judge`
 - `issue-20260606-age-anxiety-overseas-study`
-- `issue-20260606-overseas-path-cost-language-degree`
+- `issue-20260606-age35-remote-side-income`
+- `issue-20260606-ask-vs-create-information`
+- `issue-20260606-day1cpt-miu-compro-judge`
+- `issue-20260606-degree-choice-controllable-vs-uncontrollable`
+- `issue-20260606-english-weak-overseas-tech-path`
+- `issue-20260606-finish-small-degree-goal`
+- `issue-20260606-language-school-career-identity`
 - `issue-20260606-law-to-cs-overseas`
+- `issue-20260606-liberal-arts-cs-fit`
+- `issue-20260606-nontraditional-degree-overseas-cs`
+- `issue-20260606-offer-choice-status-vs-growth`
+- `issue-20260606-official-policy-vs-alumni-experience`
+- `issue-20260606-overseas-not-fast-debt-solution`
+- `issue-20260606-overseas-path-cost-language-degree`
 - `issue-20260610-online-cs-to-offline-opt-feasibility`
 
 ## 内容层可能性
@@ -121,4 +127,3 @@ updated: 2026-06-06
 - 从 `consult-20240830-chenxiaonian-northamerica-introvert-tl` 拆出“北美职场里内向技术人如何成长为 TL”。
 - 从 `consult-20250828-amy-sweden-career-ai-regulation` 拆出“欧洲/瑞典职业路径与 AI regulation 方向”。
 - 从 `consult-20240928-agan-la-delivery-cs-mentor` 拆出“海外体力工作者如何寻找 CS mentor 和长期转型路径”。
-
