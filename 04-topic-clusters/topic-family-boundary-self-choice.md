@@ -64,6 +64,7 @@ updated: 2026-06-06
 - `issue-20260606-family-not-understand-self-path`
 - `issue-20260606-midcareer-grief-career-rebuild`
 - `issue-20260606-young-woman-leave-family-environment`
+- `issue-20260611-motivation-shift-pain-to-curiosity`
 
 ## 内容层可能性
 

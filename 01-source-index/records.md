@@ -1,6 +1,6 @@
 # 咨询整理记录索引
 
-Generated: 2026-06-10 15:35
+Generated: 2026-06-11 11:48
 
 | id | kind | title | primary_theme | layers | status | record_path |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -47,6 +47,7 @@ Generated: 2026-06-10 15:35
 | consult-20260208-huangzeming-self-study-degree-planning | 02-normalized | 自考大专剩两科，想拆小目标完成学历并规划出国/艺术学校 | 学历提升和考研 | content, service | normalized | 02-normalized/consult-20260208-huangzeming-self-study-degree-planning.md |
 | consult-20260308-kerwin-us-master-cloud-computing | 02-normalized | 云计算从业者想申请美国硕士，突破非全日制学历和年龄焦虑 | 出国读书和海外求职 | content, service, connection | normalized | 02-normalized/consult-20260308-kerwin-us-master-cloud-computing.md |
 | consult-20260610-tonylu-civil-eng-us-cs-transition | 02-normalized | UCL土木硕士咨询美国转码与在线硕士路径 | 出国读书和海外求职 | content, service | normalized | 02-normalized/consult-20260610-tonylu-civil-eng-us-cs-transition.md |
+| consult-20260611-cornelia-robotics-ai-transition | 02-normalized | 大专女生咨询AI机器人转行、职业选择与内部评价系统 | 早期职业迷茫 | content, service, connection | normalized | 02-normalized/consult-20260611-cornelia-robotics-ai-transition.md |
 | issue-20260606-age-anxiety-overseas-study | 03-issue-units | 年龄焦虑和35岁风险下，要不要用海外读书换一条路 | 出国读书和海外求职 | content, service | split | 03-issue-units/issue-20260606-age-anxiety-overseas-study.md |
 | issue-20260606-age35-remote-side-income | 03-issue-units | 如何把35岁焦虑变成远程工作和副业假设验证 | 早期职业迷茫 | content, service, connection | split | 03-issue-units/issue-20260606-age35-remote-side-income.md |
 | issue-20260606-artist-learn-python-for-creative-work | 03-issue-units | 艺术科技创作者从零学编程，是否可以从 Python 开始 | AI学习和AI教育 | content | split | 03-issue-units/issue-20260606-artist-learn-python-for-creative-work.md |
@@ -85,6 +86,9 @@ Generated: 2026-06-10 15:35
 | issue-20260606-technical-student-job-definition | 03-issue-units | 技术背景不弱但担心找不到好工作，怎么定义好工作 | 早期职业迷茫 | content, service | split | 03-issue-units/issue-20260606-technical-student-job-definition.md |
 | issue-20260606-young-woman-leave-family-environment | 03-issue-units | 年轻女生想学英语和计算机，背后可能是想离开原生环境 | 家庭影响和自我边界 | content, service, connection | split | 03-issue-units/issue-20260606-young-woman-leave-family-environment.md |
 | issue-20260610-online-cs-to-offline-opt-feasibility | 03-issue-units | 在线硕士（Online Master）转线下（On-campus）的可行性与 OPT/签证规划 | 出国读书和海外求职 | content, service | split | 03-issue-units/issue-20260610-online-cs-to-offline-opt-feasibility.md |
+| issue-20260611-jump-job-vs-cash-cow | 03-issue-units | 职业抉择：选择目标行业边缘的低薪杂活，还是选择高薪高自由度的保底工作？ | 早期职业迷茫 | content, service | split | 03-issue-units/issue-20260611-jump-job-vs-cash-cow.md |
+| issue-20260611-motivation-shift-pain-to-curiosity | 03-issue-units | 当生活稳定、逃离感减弱时，如何从“痛苦驱动”转向“好奇与常态积累”？ | 家庭影响和自我边界 | content, service, connection | split | 03-issue-units/issue-20260611-motivation-shift-pain-to-curiosity.md |
+| issue-20260611-nontraditional-developer-niche-in-elite-field | 03-issue-units | 普通人如何在精英挤满、门槛极高的前沿技术领域找到自己的位置？ | 文科转码 | content, service, connection | split | 03-issue-units/issue-20260611-nontraditional-developer-niche-in-elite-field.md |
 | topic-career-start-rebuild | 04-topic-clusters | 职业起步和路径重建 | 早期职业迷茫 | content, service, connection | clustered | 04-topic-clusters/topic-career-start-rebuild.md |
 | topic-consulting-boundaries-collaboration | 04-topic-clusters | 咨询流程和边界 | 私域沟通边界 | content, service | clustered | 04-topic-clusters/topic-consulting-boundaries-collaboration.md |
 | topic-degree-upgrade-stage-priority | 04-topic-clusters | 学历提升和阶段排序 | 学历提升和考研 | content, service, connection | clustered | 04-topic-clusters/topic-degree-upgrade-stage-priority.md |

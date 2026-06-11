@@ -645,6 +645,21 @@
     "additional_themes": []
   },
   {
+    "id": "consult-20260611-cornelia-robotics-ai-transition",
+    "kind": "02-normalized",
+    "record_type": "qa_thread",
+    "title": "大专女生咨询AI机器人转行、职业选择与内部评价系统",
+    "primary_theme": "早期职业迷茫",
+    "tags": "职业转型, 行动力, 自我怀疑, 年轻女性, AI, 找工作",
+    "layers": "content, service, connection",
+    "status": "normalized",
+    "privacy_level": "private",
+    "source_path": "一对一咨询/20260611-wechat-cornelia-cavendish-inquiry.md",
+    "source_consult_id": "",
+    "record_path": "02-normalized/consult-20260611-cornelia-robotics-ai-transition.md",
+    "additional_themes": []
+  },
+  {
     "id": "issue-20260606-age-anxiety-overseas-study",
     "kind": "03-issue-units",
     "record_type": "",
@@ -1322,6 +1337,60 @@
     "record_path": "03-issue-units/issue-20260610-online-cs-to-offline-opt-feasibility.md",
     "additional_themes": [
       "`topic-overseas-study-work-path` (出国读书和海外求职)"
+    ]
+  },
+  {
+    "id": "issue-20260611-jump-job-vs-cash-cow",
+    "kind": "03-issue-units",
+    "record_type": "",
+    "title": "职业抉择：选择目标行业边缘的低薪杂活，还是选择高薪高自由度的保底工作？",
+    "primary_theme": "早期职业迷茫",
+    "tags": "职业转型, 找工作, 行动力, 自我怀疑",
+    "layers": "content, service",
+    "status": "split",
+    "privacy_level": "anonymized",
+    "source_path": "02-normalized/consult-20260611-cornelia-robotics-ai-transition.md",
+    "source_consult_id": "consult-20260611-cornelia-robotics-ai-transition",
+    "record_path": "03-issue-units/issue-20260611-jump-job-vs-cash-cow.md",
+    "additional_themes": [
+      "早期职业迷茫",
+      "文科转码"
+    ]
+  },
+  {
+    "id": "issue-20260611-motivation-shift-pain-to-curiosity",
+    "kind": "03-issue-units",
+    "record_type": "",
+    "title": "当生活稳定、逃离感减弱时，如何从“痛苦驱动”转向“好奇与常态积累”？",
+    "primary_theme": "家庭影响和自我边界",
+    "tags": "行动力, 自我怀疑, 年轻女性, 倦怠",
+    "layers": "content, service, connection",
+    "status": "split",
+    "privacy_level": "anonymized",
+    "source_path": "02-normalized/consult-20260611-cornelia-robotics-ai-transition.md",
+    "source_consult_id": "consult-20260611-cornelia-robotics-ai-transition",
+    "record_path": "03-issue-units/issue-20260611-motivation-shift-pain-to-curiosity.md",
+    "additional_themes": [
+      "家庭影响和自我边界",
+      "早期职业迷茫"
+    ]
+  },
+  {
+    "id": "issue-20260611-nontraditional-developer-niche-in-elite-field",
+    "kind": "03-issue-units",
+    "record_type": "",
+    "title": "普通人如何在精英挤满、门槛极高的前沿技术领域找到自己的位置？",
+    "primary_theme": "文科转码",
+    "tags": "转码, 机器人, AI, 非典型学历, 自我怀疑, 年轻女性",
+    "layers": "content, service, connection",
+    "status": "split",
+    "privacy_level": "anonymized",
+    "source_path": "02-normalized/consult-20260611-cornelia-robotics-ai-transition.md",
+    "source_consult_id": "consult-20260611-cornelia-robotics-ai-transition",
+    "record_path": "03-issue-units/issue-20260611-nontraditional-developer-niche-in-elite-field.md",
+    "additional_themes": [
+      "文科转码",
+      "早期职业迷茫"
     ]
   },
   {

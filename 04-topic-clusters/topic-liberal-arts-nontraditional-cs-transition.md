@@ -67,6 +67,8 @@ updated: 2026-06-06
 - `issue-20260606-law-to-cs-overseas`
 - `issue-20260606-liberal-arts-cs-fit`
 - `issue-20260606-python-vs-java-beginner`
+- `issue-20260611-jump-job-vs-cash-cow`
+- `issue-20260611-nontraditional-developer-niche-in-elite-field`
 
 ## 内容层可能性
 

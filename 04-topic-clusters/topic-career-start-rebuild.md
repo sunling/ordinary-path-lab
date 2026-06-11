@@ -70,6 +70,7 @@ updated: 2026-06-06
 - `consult-20250831-gongbaojiding-offer-choice`
 - `consult-20250918-seven-midcareer-grief-career`
 - `consult-20250925-gongbaojiding-english-followup`
+- `consult-20260611-cornelia-robotics-ai-transition`
 
 ## 已有关联问题单元
 
@@ -86,6 +87,9 @@ updated: 2026-06-06
 - `issue-20260606-offer-choice-status-vs-growth`
 - `issue-20260606-stable-skill-next-stage`
 - `issue-20260606-technical-student-job-definition`
+- `issue-20260611-jump-job-vs-cash-cow`
+- `issue-20260611-motivation-shift-pain-to-curiosity`
+- `issue-20260611-nontraditional-developer-niche-in-elite-field`
 
 ## 内容层可能性
 
