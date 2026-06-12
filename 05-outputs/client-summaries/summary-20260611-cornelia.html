@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>与 Cornelia 的咨询总结卡片</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* Premium Reset and Base Styling */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: #f5f3ef;
+      font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      color: #2e2d2b;
+      line-height: 1.6;
+      padding: 40px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    /* Print & Export Bar */
+    .action-bar {
+      width: 100%;
+      max-width: 760px;
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 20px;
+      gap: 12px;
+    }
+
+    .btn {
+      background-color: #ffffff;
+      border: 1px solid #ebdcd5;
+      color: #6f6c69;
+      padding: 8px 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s ease;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+    }
+
+    .btn:hover {
+      border-color: #c88267;
+      color: #c88267;
+      box-shadow: 0 4px 8px rgba(200, 130, 103, 0.05);
+    }
+
+    .btn-primary {
+      background-color: #c88267;
+      border-color: #c88267;
+      color: #ffffff;
+    }
+
+    .btn-primary:hover {
+      background-color: #b36e55;
+      border-color: #b36e55;
+      color: #ffffff;
+    }
+
+    /* Card Layout */
+    .card-container {
+      background-color: #fcfbfa; /* Warm cream paper tone */
+      border: 1px solid #e8e4de;
+      border-radius: 20px;
+      width: 100%;
+      max-width: 760px;
+      padding: 50px 48px;
+      box-shadow: 0 10px 40px rgba(50, 45, 40, 0.06);
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Top decorative line */
+    .card-container::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: linear-gradient(90deg, #c88267 0%, #e8ba9a 100%);
+    }
+
+    /* Header styling */
+    header {
+      margin-bottom: 40px;
+      border-bottom: 1px solid #ebdcd5;
+      padding-bottom: 24px;
+    }
+
+    .meta-subtitle {
+      font-family: "Outfit", sans-serif;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #c88267;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    header h1 {
+      font-size: 26px;
+      font-weight: 700;
+      color: #222120;
+      margin-bottom: 16px;
+      letter-spacing: -0.5px;
+    }
+
+    .welcome-text {
+      font-size: 15px;
+      color: #595652;
+      line-height: 1.7;
+    }
+
+    .welcome-text p {
+      margin-bottom: 12px;
+    }
+
+    .welcome-text strong {
+      color: #c88267;
+    }
+
+    /* Section Styling */
+    section {
+      margin-bottom: 40px;
+    }
+
+    h2 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #222120;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    h2::before {
+      content: "";
+      display: inline-block;
+      width: 4px;
+      height: 16px;
+      background-color: #c88267;
+      border-radius: 2px;
+    }
+
+    /* Core Dilemmas Lists */
+    .dilemma-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .dilemma-item {
+      background-color: #ffffff;
+      border: 1px solid #ebdcd5;
+      border-radius: 12px;
+      padding: 18px 20px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.01);
+    }
+
+    .dilemma-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: #222120;
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .dilemma-number {
+      font-family: "Outfit", sans-serif;
+      color: #c88267;
+      font-weight: 700;
+    }
+
+    .dilemma-desc {
+      font-size: 14px;
+      color: #595652;
+      padding-left: 18px;
+    }
+
+    /* Options Comparison Grid */
+    .options-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .option-card {
+      background-color: #ffffff;
+      border: 1px solid #ebdcd5;
+      border-radius: 12px;
+      padding: 20px;
+      position: relative;
+    }
+
+    .option-card.highlight {
+      border-color: #c88267;
+      background: linear-gradient(180deg, #ffffff 0%, #fefcfb 100%);
+      box-shadow: 0 4px 15px rgba(200, 130, 103, 0.05);
+    }
+
+    .option-badge {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 6px;
+      margin-bottom: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .badge-a { background-color: #f7ede8; color: #b36e55; }
+    .badge-b { background-color: #f4f3ef; color: #7a7772; }
+    .badge-c { background-color: #e8f4ec; color: #3b7a57; }
+
+    .option-name {
+      font-size: 16px;
+      font-weight: 700;
+      color: #222120;
+      margin-bottom: 12px;
+    }
+
+    .option-detail {
+      font-size: 14px;
+      color: #595652;
+      margin-bottom: 8px;
+    }
+
+    .option-detail strong {
+      color: #222120;
+      font-weight: 600;
+    }
+
+    .option-note {
+      font-size: 13.5px;
+      background-color: #faf9f6;
+      border-left: 2px solid #e8e4de;
+      padding: 8px 12px;
+      margin-top: 12px;
+      color: #6f6c69;
+      border-radius: 0 6px 6px 0;
+    }
+
+    .option-card.highlight .option-note {
+      background-color: #fdfaf7;
+      border-left-color: #c88267;
+    }
+
+    .transition-advice {
+      margin-top: 16px;
+      font-size: 14px;
+      color: #595652;
+      line-height: 1.7;
+    }
+
+    /* Niche Callout styling */
+    .niche-box {
+      background-color: #fdfaf7;
+      border: 1px solid #ebdcd5;
+      border-left: 4px solid #c88267;
+      border-radius: 12px;
+      padding: 22px;
+      box-shadow: 0 4px 12px rgba(200, 130, 103, 0.02);
+    }
+
+    .niche-text {
+      font-size: 14px;
+      color: #595652;
+    }
+
+    .niche-text p {
+      margin-bottom: 10px;
+    }
+
+    .niche-text p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* Experiments styling */
+    .experiments-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .experiment-card {
+      background-color: #ffffff;
+      border: 1px solid #ebdcd5;
+      border-radius: 12px;
+      padding: 18px 20px;
+      display: flex;
+      gap: 14px;
+    }
+
+    .experiment-check {
+      width: 20px;
+      height: 20px;
+      border: 2px solid #c88267;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 2px;
+      flex-shrink: 0;
+    }
+
+    .experiment-check::after {
+      content: "";
+      width: 8px;
+      height: 8px;
+      background-color: #c88267;
+      border-radius: 2px;
+      display: block;
+      opacity: 0.1;
+      transition: opacity 0.2s ease;
+    }
+
+    .experiment-card:hover .experiment-check::after {
+      opacity: 0.5;
+    }
+
+    .experiment-content {
+      font-size: 14px;
+      color: #595652;
+    }
+
+    .experiment-name {
+      font-weight: 600;
+      color: #222120;
+      margin-bottom: 4px;
+    }
+
+    /* Practices (Memo Card Look) */
+    .practices-container {
+      background-color: #ffffff;
+      border: 1px solid #ebdcd5;
+      border-radius: 12px;
+      padding: 24px;
+      position: relative;
+    }
+
+    /* Styled like a note page */
+    .practices-container::after {
+      content: "";
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      width: 24px;
+      height: 24px;
+      background: radial-gradient(circle, #ebdcd5 20%, transparent 20%);
+      background-size: 8px 8px;
+      opacity: 0.5;
+    }
+
+    .practice-block {
+      margin-bottom: 16px;
+    }
+
+    .practice-block:last-child {
+      margin-bottom: 0;
+    }
+
+    .practice-title {
+      font-size: 14.5px;
+      font-weight: 600;
+      color: #222120;
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .practice-title::before {
+      content: "✦";
+      color: #c88267;
+    }
+
+    .practice-desc {
+      font-size: 13.5px;
+      color: #595652;
+      padding-left: 14px;
+    }
+
+    /* Footer / Sign-off */
+    footer {
+      margin-top: 48px;
+      border-top: 1px solid #ebdcd5;
+      padding-top: 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    .closing-text {
+      font-size: 14px;
+      color: #6f6c69;
+      font-style: italic;
+      max-width: 420px;
+    }
+
+    .signature-box {
+      text-align: right;
+    }
+
+    .signature {
+      font-family: "Outfit", sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      color: #222120;
+      margin-bottom: 4px;
+    }
+
+    .sig-sub {
+      font-size: 12px;
+      color: #8c8984;
+      letter-spacing: 0.5px;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 600px) {
+      body {
+        padding: 20px 10px;
+      }
+      .card-container {
+        padding: 30px 24px;
+      }
+      header h1 {
+        font-size: 22px;
+      }
+      footer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+      }
+      .signature-box {
+        text-align: left;
+      }
+    }
+
+    /* Print Optimizations */
+    @media print {
+      body {
+        background-color: #ffffff;
+        padding: 0;
+      }
+      .action-bar {
+        display: none;
+      }
+      .card-container {
+        border: none;
+        box-shadow: none;
+        padding: 0;
+        max-width: 100%;
+        background-color: #ffffff;
+      }
+      .card-container::before {
+        display: none;
+      }
+      .dilemma-item, .option-card, .experiment-card, .practices-container {
+        page-break-inside: avoid;
+        box-shadow: none !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Hidden bar during print -->
+  <div class="action-bar">
+    <button class="btn" onclick="window.close()"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg> 关闭</button>
+    <button class="btn btn-primary" onclick="window.print()"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><path d="M6 14h12v8H6z"/></svg> 保存为 PDF / 打印</button>
+  </div>
+
+  <div class="card-container">
+    <header>
+      <div class="meta-subtitle">Ordinary Path Lab · 咨询总结</div>
+      <h1>与 Cornelia 的线上咨询简单总结</h1>
+      <div class="welcome-text">
+        <p>Hi Cornelia,</p>
+        <p>非常高兴今天能和你进行这次线上视频咨询。听到你已经通过了<strong>四川人工智能研究所</strong>的二面，并且下周就准备签约，我真心为你感到高兴！</p>
+        <p>你在 22 岁大专毕业的背景下，能全凭兴趣自学做出一台可以点头、摇头并进行基础语音交互的具身 AI 机器人 Demo，这展现了你极强的动手能力与行动力。这也是研究所面试官对你抱有极大好奇与认可的底层原因。</p>
+        <p>以下是我结合我们今天的聊天的核心内容，为你整理的咨询后总结与下一步行动建议：</p>
+      </div>
+    </header>
+
+    <!-- SECTION 1 -->
+    <section>
+      <h2>当前的核心卡点</h2>
+      <div class="dilemma-list">
+        <div class="dilemma-item">
+          <div class="dilemma-title">
+            <span class="dilemma-number">01</span> 动力的自然退火与自我接纳
+          </div>
+          <div class="dilemma-desc">
+            生存性危机过去后，曾经紧迫的“逃离感”变弱是很正常的。这说明你现在的身心状态进入了更安全、健康的常态。不要用“是不是失去野心”来给自己施压。长期的道路不适合一直拉响警报（痛苦驱动），而是需要慢慢换挡到“因为好奇、好玩，顺便把眼前事做好”的日常微小惯性驱动。
+          </div>
+        </div>
+
+        <div class="dilemma-item">
+          <div class="dilemma-title">
+            <span class="dilemma-number">02</span> 决策的不确定性
+          </div>
+          <div class="dilemma-desc">
+            现实世界不像 AI 编程那样输入 A 就能立刻预测输出 B。大部分人生决策都处于“模棱两可”的模糊地带。没有绝对正确或绝对错误的道路。只要不违法、不伤害他人、能承受最糟糕的结果，做你想做的决定即可。选择或止损本身都是你主动承担责任的体现。
+          </div>
+        </div>
+
+        <div class="dilemma-item">
+          <div class="dilemma-title">
+            <span class="dilemma-number">03</span> 重新定义英语的“进步”
+          </div>
+          <div class="dilemma-desc">
+            英语是用来听、说和沟通的工具，不一定以“过雅思/托福”为唯一标准。你能无障碍地和别人用英语交流、获得快乐和信息，这就是巨大的进步。
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 2 -->
+    <section>
+      <h2>三个职业选项的解题框架</h2>
+      <div class="options-grid">
+        <div class="option-card">
+          <span class="option-badge badge-a">选项 A</span>
+          <div class="option-name">旧行直播工作（每天播4小时，高薪保底）</div>
+          <div class="option-detail"><strong>战略定位</strong>：优质的“现金流 + 自由时间容器”。</div>
+          <div class="option-note"><strong>潜在风险</strong>：直播行业有许多灰色地带的诱惑，如果为了赚钱需要长期维持不符合自我认知的状态，会带来强烈的心理内耗，这实际上是在过度消耗你的精神健康。</div>
+        </div>
+
+        <div class="option-card">
+          <span class="option-badge badge-b">选项 B</span>
+          <div class="option-name">AI/机器人机构（低薪运营杂活）</div>
+          <div class="option-detail"><strong>战略定位</strong>：需要警惕的“假跳板”。</div>
+          <div class="option-note"><strong>潜在风险</strong>：如果岗位内容只是社区运营和行政活动，对你的硬技术成长毫无帮助，反而会用加班剥夺你业余折腾机器人的时间。</div>
+        </div>
+
+        <div class="option-card highlight">
+          <span class="option-badge badge-c">选项 C</span>
+          <div class="option-name">四川人工智能研究所（下周可能签约）</div>
+          <div class="option-detail"><strong>战略定位</strong>：最契合你热爱的<strong>核心跳板</strong>。可以直接接触真实的具身机器人项目，是极为难得的起步机会。</div>
+          <div class="option-detail"><strong>新入职建议</strong>：进入新环境感到畏缩和自卑是正常的。专注于解决眼前的具体业务 Bug。不要害怕问看似简单的问题，推进工作远比掩盖无知更重要。</div>
+        </div>
+      </div>
+      <div class="transition-advice">
+        既然下周就要签研究所的 Offer，建议你勇敢跨进这扇门，在热爱中去拿回真实的行业反馈。即便未来遇到变化，你依然有老本行的技能和经验作为保底。
+      </div>
+    </section>
+
+    <!-- SECTION 3 -->
+    <section>
+      <h2>属于你的“非典型生态位”</h2>
+      <div class="niche-box">
+        <div class="niche-text">
+          <p>作为一个自学成才、没有名校光环的开发者，你拥有非常独特的生存生态：</p>
+          <p><strong>探索者/实践者的叙事资产</strong>：大厂和实验室精英擅长做底层大模型和重资本硬件。而你作为一个普通背景的女孩，从零折腾具身机器人的真实过程，就是你独特的名片。</p>
+          <p>你可以继续在社交媒体上连载记录：“一个普通大专女孩如何从零做出具身 AI 并进入研究所工作”，这种充满生命力的真实探索叙事本身极具启发性，也是别人无法复制的。</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 4 -->
+    <section>
+      <h2>下一阶段的“微型行动实验”</h2>
+      <div class="experiments-list">
+        <div class="experiment-card">
+          <div class="experiment-check"></div>
+          <div class="experiment-content">
+            <div class="experiment-name">新入职“脱敏”实验</div>
+            <div>入职第一周，设定一个小任务：每天主动向组内前辈请教 1-2 个具体的业务/技术问题，习惯于“在提问中推进工作”，主动打破冒名顶替综合征（impostor syndrome）。</div>
+          </div>
+        </div>
+
+        <div class="experiment-card">
+          <div class="experiment-check"></div>
+          <div class="experiment-content">
+            <div class="experiment-name">英语目标拆解与截止日期</div>
+            <div>如果为了出国需要硬性备考，直接去报考并设定截止日期，用合理的外部压力推动备考。将备考目标极致拆解：不要求每天完美坚持，而是设定周目标（如“这周写完 2 篇 100 字的小短文/日记”），重在有可交付的阶段性输出（deliverable）。</div>
+          </div>
+        </div>
+
+        <div class="experiment-card">
+          <div class="experiment-check"></div>
+          <div class="experiment-content">
+            <div class="experiment-name">加入「启发星球」社群分享</div>
+            <div>期待你把自己的自学过程、转型故事整理成内容，每周六早上 8 点来我们的分享会有聊聊我们过去一周的启发和收获。在社群里记录和分享能让自己思路更清晰，也能给同路人带来启发。</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 5 -->
+    <section>
+      <h2>日常滋养热爱的练习</h2>
+      <div class="practices-container">
+        <div class="practice-block">
+          <div class="practice-title">滋养热爱</div>
+          <div class="practice-desc">从身边的小事开始，去做能给自己带来开心、滋养好奇心的事情（例如抱抱小猫、见见好朋友）。</div>
+        </div>
+
+        <div class="practice-block">
+          <div class="practice-title">每日行动卡片</div>
+          <div class="practice-desc">如果晚上容易焦虑别人的进度，睡前花 5 分钟在卡片上记下：“我今天遇到了什么小问题 → 我做了什么尝试 → 我取得的微小进展”。把注意力牢牢拉回你的物理世界中。</div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="closing-text">
+        路在行动中会越来越清晰，哪怕不好的结果也是结果。不用太焦虑，做你想做的事就好。期待我们线下见面哦！
+      </div>
+      <div class="signature-box">
+        <div class="signature">孙玲</div>
+        <div class="sig-sub">Ordinary Path Lab</div>
+      </div>
+    </footer>
+  </div>
+
+</body>
+</html>
