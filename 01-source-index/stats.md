@@ -5,7 +5,7 @@
 - 02-normalized: 44
 - 03-issue-units: 41
 - 04-topic-clusters: 7
-- 05-outputs: 4
+- 05-outputs: 5
 - 06-article-drafts: 1
 
 ## record_type
@@ -15,12 +15,13 @@
 - consult_call: 12
 - output: 4
 - collaboration: 1
+- summary: 1
 - article_draft: 1
 
 ## primary_theme
 
 - 出国读书和海外求职: 26
-- 早期职业迷茫: 23
+- 早期职业迷茫: 24
 - 文科转码: 15
 - 家庭影响和自我边界: 10
 - 学历提升和考研: 9
@@ -32,27 +33,27 @@
 ## layers
 
 - content: 87
-- service: 81
+- service: 82
 - connection: 44
 
 ## tags
 
 - 英语: 24
+- 找工作: 14
 - 美国硕士: 14
-- 找工作: 13
 - 女性处境: 11
+- 年轻女性: 9
 - Java: 8
 - 自考: 8
 - 出国: 8
 - 编程: 8
 - 转码: 8
-- 年轻女性: 8
+- AI: 8
+- 自我怀疑: 8
 - 考研: 7
-- AI: 7
-- 自我怀疑: 7
+- 行动力: 7
+- 职业转型: 7
 - Python: 6
-- 行动力: 6
-- 职业转型: 6
 - 计算机: 5
 - CS: 5
 - 文科转码: 5

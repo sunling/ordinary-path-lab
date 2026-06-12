@@ -1499,6 +1499,21 @@
     "additional_themes": []
   },
   {
+    "id": "summary-20260611-cornelia",
+    "kind": "05-outputs",
+    "record_type": "summary",
+    "title": "给 Cornelia 的咨询后简单总结",
+    "primary_theme": "早期职业迷茫",
+    "tags": "职业转型, 行动力, 自我怀疑, 年轻女性, AI, 找工作",
+    "layers": "service",
+    "status": "normalized",
+    "privacy_level": "private",
+    "source_path": "",
+    "source_consult_id": "consult-20260611-cornelia-robotics-ai-transition",
+    "record_path": "05-outputs/client-summaries/summary-20260611-cornelia.md",
+    "additional_themes": []
+  },
+  {
     "id": "connection-pool",
     "kind": "05-outputs",
     "record_type": "output",

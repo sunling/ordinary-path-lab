@@ -91,6 +91,7 @@ topic-family-boundary-self-choice,04-topic-clusters,,家庭影响和自我选择
 topic-liberal-arts-nontraditional-cs-transition,04-topic-clusters,,文科/非典型学历转码,文科转码,"文科转码, 非典型学历, Python, Java, 培训班, 女性处境, 出国","content, service, connection",anonymized,clustered,,,04-topic-clusters/topic-liberal-arts-nontraditional-cs-transition.md
 topic-overseas-study-work-path,04-topic-clusters,,出国读书和海外求职,出国读书和海外求职,"海外读书, 海外求职, 美国硕士, 英语, 签证, 非典型学历, 财务风险","content, service, connection",anonymized,clustered,,,04-topic-clusters/topic-overseas-study-work-path.md
 topic-small-city-women-career,04-topic-clusters,,小城市女性职业起步,小城市女性职业起步,"小城市, 大城市, 找工作, 家庭压力, 女性处境","content, service, connection",anonymized,clustered,,,04-topic-clusters/topic-small-city-women-career.md
+summary-20260611-cornelia,05-outputs,summary,给 Cornelia 的咨询后简单总结,早期职业迷茫,"职业转型, 行动力, 自我怀疑, 年轻女性, AI, 找工作",service,private,normalized,,consult-20260611-cornelia-robotics-ai-transition,05-outputs/client-summaries/summary-20260611-cornelia.md
 connection-pool,05-outputs,output,连接池候选分组,,,,private,reusable,,,05-outputs/connection-pool.md
 content-backlog,05-outputs,output,内容选题清单,,,,,reusable,,,05-outputs/content-backlog.md
 service-offers,05-outputs,output,服务产品雏形,,,,,reusable,,,05-outputs/service-offers.md

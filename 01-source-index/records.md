@@ -1,6 +1,6 @@
 # 咨询整理记录索引
 
-Generated: 2026-06-11 11:48
+Generated: 2026-06-12 11:45
 
 | id | kind | title | primary_theme | layers | status | record_path |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -96,6 +96,7 @@ Generated: 2026-06-11 11:48
 | topic-liberal-arts-nontraditional-cs-transition | 04-topic-clusters | 文科/非典型学历转码 | 文科转码 | content, service, connection | clustered | 04-topic-clusters/topic-liberal-arts-nontraditional-cs-transition.md |
 | topic-overseas-study-work-path | 04-topic-clusters | 出国读书和海外求职 | 出国读书和海外求职 | content, service, connection | clustered | 04-topic-clusters/topic-overseas-study-work-path.md |
 | topic-small-city-women-career | 04-topic-clusters | 小城市女性职业起步 | 小城市女性职业起步 | content, service, connection | clustered | 04-topic-clusters/topic-small-city-women-career.md |
+| summary-20260611-cornelia | 05-outputs | 给 Cornelia 的咨询后简单总结 | 早期职业迷茫 | service | normalized | 05-outputs/client-summaries/summary-20260611-cornelia.md |
 | connection-pool | 05-outputs | 连接池候选分组 |  |  | reusable | 05-outputs/connection-pool.md |
 | content-backlog | 05-outputs | 内容选题清单 |  |  | reusable | 05-outputs/content-backlog.md |
 | service-offers | 05-outputs | 服务产品雏形 |  |  | reusable | 05-outputs/service-offers.md |
